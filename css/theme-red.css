@@ -2479,7 +2479,7 @@ a[data-notification-link]:hover {
 /**! 25. Video **/
 iframe {
   width: 100%;
-  min-height: 350px;
+  min-height: 100px;
   border: none;
 }
 @media all and (max-width: 767px) {
@@ -2518,7 +2518,7 @@ iframe {
   z-index: 0 !important;
   left: 0;
 }
-@media all and (max-width: 1024px) {
+@media all and (max-width: 200px) {
   .videobg .background-image-holder,
   .videobg .container {
     opacity: 1 !important;
@@ -2542,7 +2542,7 @@ iframe {
   height: 0;
   visibility: hidden;
 }
-@media all and (max-width: 1024px) {
+@media all and (max-width: 200px) {
   .youtube-background {
     display: none;
   }
