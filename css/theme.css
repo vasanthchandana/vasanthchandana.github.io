@@ -73,7 +73,7 @@ body {
   line-height: 1.85714286em;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Recursive','Open Sans', 'Helvetica', 'Arial', sans-serif;
   color: #666666;
   font-weight: 400;
 }
@@ -89,7 +89,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Recursive','Open Sans', 'Helvetica', 'Arial', sans-serif;
   color: #252525;
   font-weight: 300;
   font-variant-ligatures: common-ligatures;
