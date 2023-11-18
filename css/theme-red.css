@@ -2518,7 +2518,7 @@ iframe {
   z-index: 0 !important;
   left: 0;
 }
-@media all and (max-width: 200px) {
+@media all and (max-width: 50px) {
   .videobg .background-image-holder,
   .videobg .container {
     opacity: 1 !important;
