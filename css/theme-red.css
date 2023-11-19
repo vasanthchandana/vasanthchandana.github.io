@@ -9378,7 +9378,7 @@ footer.footer-7 {
 .timer {
   font-size: 7.142857em;
 }
-@media all and (max-width: 768px) {
+@media all and (max-width: 1024px) {
   .timer {
     font-size: 3.142857em;
   }
