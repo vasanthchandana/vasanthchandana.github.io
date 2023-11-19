@@ -9375,3 +9375,11 @@ footer.footer-7 {
     margin-right: auto;
   }
 }
+.timer {
+  font-size: 7.142857em;
+}
+@media all and (max-width: 768px) {
+  .timer {
+    font-size: 3.142857em;
+  }
+}
